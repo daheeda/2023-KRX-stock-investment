@@ -12,7 +12,8 @@
 Score
 ---
 <img width="592" alt="image" src="https://github.com/daheeda/2023-KRX-stock-investment/assets/91541933/d4b6669b-cd91-4e4e-a445-c0bccdd347fe">
-0.47178
+
+Sharpe Index = 0.47178
 
 📍About
 ---
